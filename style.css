@@ -1,44 +1,4 @@
-/* css_au_main.css */
 
-/* ========================================================================== */
-/*
- * Default CSS file - GKN
- * Media:all
- *
- * Author: Lukasz Falkowski - Excite Communications (lukasz@excitecommunications.co.uk)
- *
- * TABLE OF CONTENTS
- * --------------------------------------------------------------------------
- * 1.	COMMON ELEMENTS
- * 1.0		FONTS & COMMON TYPOGRAPHY
- * 1.1		UTILITIES
- * 1.2		PAGE
- * 1.3		PAGE HEADER
- * 1.4		TOP NAVIGATION
- * 1.5		TOP SEARCH
- * 1.6		SHARES PANEL
- * 1.7		BANNERS
- * 1.8		PAGE MIDDLE
- * 1.9		PAGE FOOTER
- * 1.10		COMMON BLOCKS
- * 1.11		ARTICLES
- * 2.	PAGE SPECIFIC
- * 2.0		HOMEPAGE
- * 2.1		ABOUT
- * 2.2		DIVISIONS
- * 2.3		SUSTAINABILITY
- * 2.4		CAREERS
- * 2.5		NEWSROOM
- * 2.6		INVESTORS
- * 2.7		SEARCH RESULTS
- * 3.	ADDITIONAL MEDIA QUERIES
- * 4.	AD HOC STYLES
- * 4.0		LUKASZ
- * 4.1		MARSHALL
- * --------------------------------------------------------------------------
- *
- */
-/* ========================================================================== */
 body::before {
     content: 'desktop';
     display: none;
